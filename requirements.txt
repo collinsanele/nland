@@ -1,0 +1,6 @@
+gunicorn
+flask
+requests
+bs4
+webbrowser
+time
